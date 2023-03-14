@@ -14,7 +14,7 @@ let currentQuestion = "";
 let index;
 // ------------------------------------------------
 
-// draw quetion from array,  invoke createAnswersBtns()::::
+// draw question from array,  invoke createAnswersBtns()::::
 const selectQuestion = () => {
     // questions data kept in questions.js files::::::
     // check if question was used before:

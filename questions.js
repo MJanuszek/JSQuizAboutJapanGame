@@ -1,12 +1,12 @@
 const questions = [
     // 1
-    { question: "Sakura to po japońsku: ",
+    { question: "Sakura to po japońsku kwiat: ",
     asked: false,
     answers: [
-        {text: "Wiśnia", correct: true},
-        {text: "Herbata", correct: false},
-        {text: "Miasto", correct: false},
-        {text: "Zima", correct: false},  
+        {text: "Drzewa wiśniowego", correct: true},
+        {text: "Krzewu Herbaty jaśminowej", correct: false},
+        {text: "Kwiat jabłoni", correct: false},
+        {text: "Gatunek mchu", correct: false},  
     ]
 },
 // 2
